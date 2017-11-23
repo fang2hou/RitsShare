@@ -1,0 +1,14 @@
+.filelist {
+	width: 100%;
+}
+.filelist thead th{
+	text-align: center;
+}
+.filelist tbody th{
+	font-weight: 300;
+	text-align: center;
+}
+.author
+{
+	text-align: right;
+}
