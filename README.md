@@ -25,6 +25,4 @@ You can visit a [demo](http://www.ritsumei.ac.jp/~is0385rx/archive) (in school o
 
 4.It's done, you can visit your archive now.
 
-btw, you can also edit the index.html to redirect visitors to RitsuCoder page.
-
-
+btw, you can also edit the index.html to redirect visitors to RitsShare page.
